@@ -1,9 +1,5 @@
 //package JavaApplication6;
 import java.util.*;
-/**
- *
- * @author forhad
- */
 
 public class JavaApplication6 {
 
